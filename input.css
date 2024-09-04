@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.hov{
+    @apply hover:underline cursor-pointer
+}
+@tailwind utilities;
